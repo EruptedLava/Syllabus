@@ -16,7 +16,7 @@
 
 ## 22 October
 ```Starting numpy and matplotlib```
-- Learn numpy from [here](https://youtu.be/GB9ByFAIAH4)
+- Learn numpy from [here](https://youtu.be/GB9ByFAIAH4) or from [this playlist](https://youtube.com/playlist?list=PLhTjy8cBISEpTyVbZGYUesjpeUXth8rqs)
 - Learn matplotlib from [here](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
 
