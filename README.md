@@ -21,7 +21,7 @@
 
 ## 23 October 
 ```OS module and Argparse```
-- [OS module in hindi](https://youtu.be/HHviSDUTtUc) [ OS module in english ](https://youtu.be/tJxcKyFMTGo)
+- Learn [OS module in hindi](https://youtu.be/HHviSDUTtUc) or [ OS module in english ](https://youtu.be/tJxcKyFMTGo)
 - Learn [Argparse module](https://www.youtube.com/results?search_query=argparse) and little bit about [sys module](https://www.youtube.com/results?search_query=sys+module)
 
  ```New Syllabus Comming Soon```
